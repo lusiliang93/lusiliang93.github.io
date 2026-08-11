@@ -16,11 +16,11 @@ cv:
       username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: North Fuquan Road 333
+    city: Shanghai
+    region: Shanghai
+    postalCode: 200335
+    countryCode: China
 
   sections:
     Education:
