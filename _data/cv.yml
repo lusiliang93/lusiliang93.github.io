@@ -8,12 +8,12 @@ cv:
            With proven tracking records in leading cross-functional collaborations, I have delivered scalable AI solutions to BU customers for achieving business goals or cost reduction. 
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
+    # - network: X
+    #   username: 
     - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+      username: lusiliang93
+    # - network: LinkedIn
+    #   username: example
 
   address:
     street: North Fuquan Road 333
@@ -24,66 +24,66 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerlands
-        url: https://www.uzh.ch/s
-        area: Physics
+      - institution: Carnegie Mellon University
+        location: Pittsburgh, PA, USA
+        url: https://www.cmu.edu
+        area: Building Performance and Diagnostics
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 2015
+        end_date: 2019
         score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+        # courses: "Theory of Relativity"
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      # - institution: Eidgenössische Technische Hochschule
+      #   location: Zurich, Switzerland
+      #   area: Physics
+      #   studyType: Federal teaching diploma
+      #   start_date: 1896
+      #   end_date: 1900
+      #   highlights:
+      #     - Description 1.
+      #     - Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Bosch Corporate Research
+        position: Senior Expert
+        location: Shanghai, China
+        start_date: 2019
+        end_date: 2023
+        summary: Leading projects in industrial AI across domains with different business units.
         highlights:
           - Relativity
           - Description 2.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      # - company: California Institute of Technology
+      #   position: Visiting Professor
+      #   location: Pasadena, California, US
+      #   start_date: 1933
+      #   end_date: 1933
+      #   highlights:
+      #     - Description 1.
+      #     - Description 2.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      # - company: Kaiser Wilhelm Institute for Physics
+      #   position: Director
+      #   location: Berlin, Germany
+      #   start_date: 1917
+      #   end_date: 1933
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      # - company: Karl-Ferdinand University
+      #   position: Professor of Theoretical Physics
+      #   location: Prague, Czechoslovakia
+      #   start_date: 1911
+      #   end_date: 1917
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      # - company: University of Zurich
+      #   position: Associate Professor of Theoretical Physics
+      #   location: Zurich, Switzerland
+      #   start_date: 1909
+      #   end_date: 1911
 
     Volunteer:
       - company: People's Climate March
@@ -97,20 +97,20 @@ cv:
           - "Men of the year 2014 by Time magazine"
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Bosch Global Top Inventor
+        # authors:
+        #   - "Royal Swedish Academy of Sciences"
+        date: 2022
+        awarder: Bosch Group
+        url: https://www.linkedin.com/posts/bosch-center-for-artificial-intelligence-bcai_bosch-ai-data-activity-6952609627423297536-7yh-?utm_source=share&utm_medium=member_desktop
+        # summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      # - title: Max Planck Medal
+      #   authors:
+      #     - "German Physical Society"
+      #   date: 2029
+      #   awarder: German Physical Society
+      #   summary: Awarded for outstanding scientific achievement
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
@@ -144,7 +144,7 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: German
+      - name: Chinese
         summary: "Native speaker"
 
       - name: English
@@ -180,11 +180,11 @@ cv:
         start_date: 2018-01-01
         end_date: 2018-01-01
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    # References:
+    #   - name: Professor John Doe
+    #     icon: fa-solid fa-laptop
+    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    #   - name: Professor Jane Smith
+    #     icon: fa-solid fa-thumbtack
+    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
