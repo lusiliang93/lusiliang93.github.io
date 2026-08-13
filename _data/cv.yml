@@ -85,16 +85,16 @@ cv:
       #   start_date: 1909
       #   end_date: 1911
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+    # Volunteer:
+    #   - company: People's Climate March
+    #     position: Lead Organizer
+    #     location: Zurich, Switzerland
+    #     start_date: 2014-04-01
+    #     end_date: 2015-07-01
+    #     summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+    #     highlights:
+    #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+    #       - "Men of the year 2014 by Time magazine"
 
     Awards:
       - title: Bosch Global Top Inventor
@@ -105,12 +105,12 @@ cv:
         url: https://www.linkedin.com/posts/bosch-center-for-artificial-intelligence-bcai_bosch-ai-data-activity-6952609627423297536-7yh-?utm_source=share&utm_medium=member_desktop
         # summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
-      # - title: Max Planck Medal
-      #   authors:
-      #     - "German Physical Society"
-      #   date: 2029
-      #   awarder: German Physical Society
-      #   summary: Awarded for outstanding scientific achievement
+      - title: Young Caadria Award
+        # authors:
+        #   - "German Physical Society"
+        date: 2018
+        awarder: Ca
+        # summary: Awarded for outstanding scientific achievement
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
@@ -151,25 +151,25 @@ cv:
         summary: "Fluent"
 
     Interests:
-      - name: Physics
+      - name: Industrial AI
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Reinforcement Learning, Optimization, Time Series Analysis"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+    # Certificates:
+    #   - name: Machine Learning
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+    #   - name: Quantum Computing
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-tag
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+    #   - name: Quantum Information
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-envelope
 
     Projects:
       - name: Quantum Computing
