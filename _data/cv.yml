@@ -113,29 +113,221 @@ cv:
         # summary: Awarded for outstanding scientific achievement
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "Predictive safety filter enhanced curriculum learning control for efficient vehicle dynamics controller"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - "Baocong Zhang"
+          - "Siliang Lu"
+          - "Chenyang Li"
+        publisher: "arXiv preprint arXiv:2608.09653"
+        releaseDate: "2026"
+        url: "https://arxiv.org/abs/2608.09653"
+        summary: "Recent advances in learning-based control have enabled impressive achievements in solving complex control problems in various domains. However, since learning-based control may not be able to realize safety-guaranties, it is of great …"
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: "Vehicle routing problem using deep reinforcement learning-A case study about truck planning in the industry"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - "Siliang Lu"
+          - "Dan Hu"
+          - "Lili Wu"
+        publisher: "arXiv preprint arXiv:2608.06668"
+        releaseDate: "2026"
+        url: "https://arxiv.org/abs/2608.06668"
+        summary: "As an important component of the supply chain industry, transportation has experienced rapid development in the past decade with the assistance of digital platforms and intelligent algorithms. Within the field of transportation research, …"
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: "Time-series forecast for indoor zone air temperature with long horizons: A case study with sensor-based data from a smart building"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - "Liping Sun"
+          - "Yucheng Guo"
+          - "Siliang Lu"
+          - "Zhenzhen Li"
+        publisher: "ICML 2025 CO-BUILD Workshop on Computational Optimization of Buildings"
+        releaseDate: "2025"
+        url: "https://arxiv.org/abs/2512.19038"
+        summary: "With the press of global climate change, extreme weather and sudden weather changes are becoming increasingly common. To maintain a comfortable indoor environment and minimize the contribution of the building to climate change as much as …"
+
+      - title: "Real-time chiller optimization in industrial plants based on data-driven load forecast with domain knowledge"
+        authors:
+          - "Siliang Lu"
+          - "Pengkun Liu"
+        publisher: "ASCE International Conference on Computing in Civil Engineering, July 28-31, 2024, Pittsburgh, Pennsylvania, USA"
+        releaseDate: "2024"
+        url: "https://doi.org/10.1061/9780784486139.027"
+        summary: "Currently, digitalization is bringing about a paradigm shift to mitigate climate change in industry. This case study regarding data-driven chiller optimization with domain knowledge deployed in an industrial plant aims to optimize chiller …"
+
+      - title: "An interactive task conditioning system featuring personal comfort models and non-intrusive sensing techniques: a field study in shanghai"
+        authors:
+          - "Siliang Lu"
+          - "Erica Cochran Hameen"
+        publisher: "Technologies"
+        releaseDate: "2021"
+        url: "https://www.mdpi.com/2227-7080/9/4/90"
+        summary: "Heating, ventilation and air-conditioning (HVAC) systems play a key role in shaping office environments. However, open-plan office buildings nowadays are also faced with problems like unnecessary energy waste and an unsatisfactory shared …"
+
+      - title: "Energy Co-Simulation of the Hybrid Cooling Control with Synthetic Thermal Preference Distributions"
+        authors:
+          - "Siliang Lu"
+          - "Zhiang Zhang"
+          - "Erica Cochran Hameen"
+          - "Berangere Lartigue"
+          - "Omer Karaguzel"
+        publisher: "2020 Symposium on simulation in architecture + urban design (SimAUD), online conference, May 25-27"
+        releaseDate: "2020"
+        url: "https://insa-toulouse.hal.science/hal-04796727/"
+        summary: "Thermal comfort and energy efficiency are always the two most significant objectives in HVAC operations. However, for conventional HVAC systems, the pursuit of high energy efficiency may be at the expense of satisfactory thermal comfort. …"
+
+      - title: "Data-driven simulation of a thermal comfort-based temperature set-point control with ASHRAE RP884"
+        authors:
+          - "Siliang Lu"
+          - "Weilong Wang"
+          - "Chaochao Lin"
+          - "Erica Cochran Hameen"
+        publisher: "Building and Environment"
+        releaseDate: "2019"
+        url: "https://www.sciencedirect.com/science/article/pii/S0360132319301647"
+        summary: "In the course of thermal comfort theory, researchers have been investigating both static thermal comfort and adaptive thermal comfort. Compared to static thermal comfort metrics such as predicted mean vote (PMV), adaptive thermal comfort …"
+
+      - title: "Thermal Comfort-Based Personalized Models with Non-Intrusive Sensing Technique in Office Buildings"
+        authors:
+          - "Siliang Lu"
+          - "Weilong Wang"
+          - "Shihan Wang"
+          - "Erica Cochran Hameen"
+        publisher: "Applied Sciences"
+        releaseDate: "2019"
+        url: "https://www.mdpi.com/2076-3417/9/9/1768"
+        summary: "Heating, ventilation and air-conditioning (HVAC) systems play a key role in shaping the built environment. However, centralized HVAC systems cannot guarantee the provision of a comfortable thermal environment for everyone. Therefore, a …"
+
+      - title: "Open computing infrastructure for sharing data analytics to support building energy simulations"
+        authors:
+          - "Omer T Karaguzel"
+          - "Mohammed Elshambakey"
+          - "Yimin Zhu"
+          - "Tianzhen Hong"
+          - "William J Tolone"
+          - "Sreyasee Das Bhattacharjee"
+          - "Isaac Cho"
+          - "Wenwen Dou"
+          - "Haopeng Wang"
+          - "Siliang Lu"
+          - "Mohamed Khalefa"
+          - "Yong Tao"
+        publisher: "Journal of Computing in Civil Engineering"
+        releaseDate: "2019"
+        url: "https://ascelibrary.org/doi/abs/10.1061/(ASCE)CP.1943-5487.0000857"
+        summary: "Building energy simulation plays an increasingly important role in building design and operation. This paper presents an open computing infrastructure, Virtual Information Fabric Infrastructure (VIFI), that allows building designers and …"
+
+      - title: "Comfort-Based Integrative HVAC System with Non-Intrusive Sensing in Office Buildings"
+        authors:
+          - "Siliang Lu"
+          - "Shihan Wang"
+          - "Erica Cochran Hameen"
+          - "Jie Shi"
+          - "Yue Zou"
+        publisher: "Proceedings of the 24th International conference on Computer-Aided Architectural Design Research in Asia (CAADRIA)"
+        releaseDate: "2019"
+        url: "https://doi.org/10.52842/conf.caadria.2019.1.785"
+        summary: "Heating, ventilation and air-conditioning system plays a key role in shaping the built environment. The effective and efficient HVAC operations not only achieve energy savings but also create a more comfortable environment for occupant …"
+
+      - title: "An Interactive Building Control for the Integrative HVAC System Featuring Personalized Cooling in Office Buildings"
+        authors:
+          - "Siliang Lu"
+          - "Erica Cochran Hameen"
+          - "Yue Zou"
+        publisher: "ASHRAE Annual Conference, Kansas City, MO, USA"
+        releaseDate: "2019"
+        url: "https://www.researchgate.net/publication/334063609_An_Interactive_Building_Control_for_the_Integrative_HVAC_System_Featuring_Personalized_Cooling_in_Office_Buildings"
+        summary: "The effective HVAC operations not only achieve energy savings but also create a more comfortable indoor environment for occupants. Currently, commercial buildings, particularly open-plan office buildings are faced with problems like …"
+
+      - title: "Simulation Study of Infiltration Effects on Demand Controlled Ventilation System with High-variant Occupancy Schedules"
+        authors:
+          - "Siliang Lu"
+          - "Omer Karaguzel"
+          - "Erica Cochran Hameen"
+        publisher: "ASHRAE Transactions"
+        releaseDate: "2019"
+        url: "https://search.proquest.com/openview/e6cdd87b504279a5d8ebdfcab1a042ac/1?pq-origsite=gscholar&cbl=34619"
+        summary: "In order to reduce energy consumption while maintain high indoor air quality (IAQ), CO2-based Demand controlled ventilation (DCV) has been investigated a lot and become trend of the future ventilation system. Among different advanced …"
+
+      - title: "An interactive task-ambient cooling control featuring personal thermal comfort and non-intrusive sensing techniques"
+        authors:
+          - "Siliang Lu"
+        publisher: "Carnegie Mellon University"
+        releaseDate: "2019"
+        url: "https://kilthub.cmu.edu/articles/thesis/An_Interactive_Task-Ambient_Cooling_Control_Featuring_Personal_Thermal_Comfort_and_Non-Intrusive_Sensing_Techniques/9882878"
+        summary: "The Heating, Ventilation and Air-Conditioning (HVAC) system plays a key role in shaping building performances. Effective and efficient HVAC operations not only achieve energy savings but also create a more comfortable indoor environment …"
+
+      - title: "Simulation Study of Individual Thermal Comfort with the Integrated Personalized Fan and VAV System"
+        authors:
+          - "Siliang Lu"
+          - "Erica Cochran Hameen"
+        publisher: "IBPSA Building Simulation Conference, Rome, Italy"
+        releaseDate: "2019"
+        url: "https://doi.org/10.26868/25222708.2019.210901"
+        summary: "Variable Air Volume (VAV) system has been widely used in commercial buildings, especially open-plan office buildings for years. Compared to private offices, open-plan offices are faced with problems like too much interruptions and …"
+
+      - title: "A deep reinforcement learning approach to using whole building energy model for hvac optimal control"
+        authors:
+          - "Zhiang Zhang"
+          - "Adrian Chong"
+          - "Yuqi Pan"
+          - "Chenlu Zhang"
+          - "Siliang Lu"
+          - "Khee Poh Lam"
+        publisher: "2018 Building Performance Analysis Conference and SimBuild"
+        releaseDate: "2018"
+        url: "https://publications.ibpsa.org/conference/paper/?id=simbuild2018_C093"
+        summary: "Whole building energy model (BEM) is difficult to be used in the classical model-based optimal control (MOC) because of its high-dimension nature and intensive computational speed. This study proposes a novel deep reinforcement learning …"
+
+      - title: "Dynamic HVAC Operations with Real-Time Vision-Based Occupant Recognition System"
+        authors:
+          - "Siliang Lu"
+          - "Erica Cochran Hameen"
+          - "Azizan Aziz"
+        publisher: "ASHRAE Winter Conference, Chicago, IL, USA"
+        releaseDate: "2018"
+        url: "https://www.researchgate.net/publication/327903259_Dynamic_HVAC_Operations_with_Real-Time_Vision-Based_Occupant_Recognition_System"
+        summary: "An integrated heating, ventilation and air-conditioning (HVAC) system is one of the most important components to determine the energy consumption of the entire building. For commercial buildings, particularly office buildings and schools, …"
+
+      - title: "INTEGRATED IR VISION SENSOR FOR ONLINE CLOTHING INSULATION MEASUREMENT"
+        authors:
+          - "Siliang Lu"
+          - "Erica Cochran Hameen"
+        publisher: "Proceedings of the 23rd CAADRIA conference, Tsinghua University, Beijing, China"
+        releaseDate: "2018"
+        url: "https://doi.org/10.52842/conf.caadria.2018.1.565"
+        summary: "As one of the most important building systems, HVAC plays a key role in creating a comfortable thermal environment. Predicted Mean Vote (PMV), an index that predicts the mean value of the votes of a large group of persons on the thermal …"
+
+      - title: "Simulations of dynamic ventilation operations with real-time occupancy estimation"
+        authors:
+          - "Siliang Lu"
+          - "Jing Yang"
+          - "Erica Cochran Hameen"
+          - "Omer Tugrul Karaguzel"
+        publisher: "ACEEE Summer Study on Energy Efficiency in Buildings, Pacific Grove, CA, USA"
+        releaseDate: "2018"
+        url: "https://www.researchgate.net/publication/327903261_Simulations_of_dynamic_ventilation_operations_with_real-time_occupancy_estimation"
+        summary: "Nowadays, advanced sensors have been embedded into commercial buildings in the pursuit of creating healthy and comfortable working/studying environment for occupants while maintaining high energy-efficiency. Among different sensors, the …"
+
+      - title: "Prediction Analysis on the Transport Distance of Supply Air in Warm Air Heating Room with Impinging Jet Ventilation Systems"
+        authors:
+          - "陈新秋"
+          - "钟珂"
+          - "卢思亮"
+          - "亢燕铭"
+        publisher: "东华大学学报: 英文版"
+        releaseDate: "2015"
+        url: "https://caod.oriprobe.com/articles/47520776/Prediction_Analysis_on_the_Transport_Distance_of_Supply_Air_in_Warm_Ai.htm"
+        summary: "To overcome the disadvantages of displacement ventilation (DV) and traditional mixing ventilation (MV) system, a new ventilation system known as impinging jet ventilation system (IJVS) has been developing. The warm air can be supplied with …"
+
+      - title: "寒潮对秋末冬初上海学生宿舍室内环境的影响"
+        authors:
+          - "卢思亮"
+          - "沈莉莉"
+          - "李棠玉"
+          - "钟珂"
+        publisher: "土木与环境工程学报 (中英文)"
+        releaseDate: "2014"
+        url: "http://qks.cqu.edu.cn/cqdxxbcn/article/abstract/2014Z1012"
+        summary: "健康舒适的学生宿舍环境是保证大学生日常学习生活的必要条件 .对上海非供暖宿舍寒潮期室内CO2浓度和热环境参数进行为期29天的实测.结果表明寒潮期上海 非供暖学生宿舍室内温度略低于所需供暖室内临界温度,CO2浓度远超过人体长期处在室内所能 接受的限制浓度.通过比较不同气密性房间热环境参数和CO2浓度,指出房间气密性对寒潮期间 室内CO2浓度影响较大,对室内热环境影响较小."
 
     # Skills:
     #   - name: Physics
