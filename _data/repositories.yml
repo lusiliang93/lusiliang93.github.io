@@ -7,9 +7,9 @@ github_repos:
   - lusiliang93/personalized-cooling-fan
   - lusiliang93/16623-facial-landmark
   - lusiliang93/aic_personal_comfort
-  - lusiliang93/SODA
-  - lusiliang93/image-retrieval-v2
-  - lusiliang93/Image-Retrieval-liresolr
+  # - lusiliang93/SODA
+  # - lusiliang93/image-retrieval-v2
+  # - lusiliang93/Image-Retrieval-liresolr
   - lusiliang93/thermal_model_rp884
-  - lusiliang93/speech_recognition
+  # - lusiliang93/speech_recognition
   - lusiliang93/darknet-cpp
