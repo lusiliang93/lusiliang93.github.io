@@ -307,27 +307,27 @@ cv:
         url: "https://www.researchgate.net/publication/327903261_Simulations_of_dynamic_ventilation_operations_with_real-time_occupancy_estimation"
         summary: "Nowadays, advanced sensors have been embedded into commercial buildings in the pursuit of creating healthy and comfortable working/studying environment for occupants while maintaining high energy-efficiency. Among different sensors, the …"
 
-      - title: "Prediction Analysis on the Transport Distance of Supply Air in Warm Air Heating Room with Impinging Jet Ventilation Systems"
-        authors:
-          - "陈新秋"
-          - "钟珂"
-          - "卢思亮"
-          - "亢燕铭"
-        publisher: "东华大学学报: 英文版"
-        releaseDate: "2015"
-        url: "https://caod.oriprobe.com/articles/47520776/Prediction_Analysis_on_the_Transport_Distance_of_Supply_Air_in_Warm_Ai.htm"
-        summary: "To overcome the disadvantages of displacement ventilation (DV) and traditional mixing ventilation (MV) system, a new ventilation system known as impinging jet ventilation system (IJVS) has been developing. The warm air can be supplied with …"
+      # - title: "Prediction Analysis on the Transport Distance of Supply Air in Warm Air Heating Room with Impinging Jet Ventilation Systems"
+      #   authors:
+      #     - "陈新秋"
+      #     - "钟珂"
+      #     - "卢思亮"
+      #     - "亢燕铭"
+      #   publisher: "东华大学学报: 英文版"
+      #   releaseDate: "2015"
+      #   url: "https://caod.oriprobe.com/articles/47520776/Prediction_Analysis_on_the_Transport_Distance_of_Supply_Air_in_Warm_Ai.htm"
+      #   summary: "To overcome the disadvantages of displacement ventilation (DV) and traditional mixing ventilation (MV) system, a new ventilation system known as impinging jet ventilation system (IJVS) has been developing. The warm air can be supplied with …"
 
-      - title: "寒潮对秋末冬初上海学生宿舍室内环境的影响"
-        authors:
-          - "卢思亮"
-          - "沈莉莉"
-          - "李棠玉"
-          - "钟珂"
-        publisher: "土木与环境工程学报 (中英文)"
-        releaseDate: "2014"
-        url: "http://qks.cqu.edu.cn/cqdxxbcn/article/abstract/2014Z1012"
-        summary: "健康舒适的学生宿舍环境是保证大学生日常学习生活的必要条件 .对上海非供暖宿舍寒潮期室内CO2浓度和热环境参数进行为期29天的实测.结果表明寒潮期上海 非供暖学生宿舍室内温度略低于所需供暖室内临界温度,CO2浓度远超过人体长期处在室内所能 接受的限制浓度.通过比较不同气密性房间热环境参数和CO2浓度,指出房间气密性对寒潮期间 室内CO2浓度影响较大,对室内热环境影响较小."
+      # - title: "寒潮对秋末冬初上海学生宿舍室内环境的影响"
+      #   authors:
+      #     - "卢思亮"
+      #     - "沈莉莉"
+      #     - "李棠玉"
+      #     - "钟珂"
+      #   publisher: "土木与环境工程学报 (中英文)"
+      #   releaseDate: "2014"
+      #   url: "http://qks.cqu.edu.cn/cqdxxbcn/article/abstract/2014Z1012"
+      #   summary: "健康舒适的学生宿舍环境是保证大学生日常学习生活的必要条件 .对上海非供暖宿舍寒潮期室内CO2浓度和热环境参数进行为期29天的实测.结果表明寒潮期上海 非供暖学生宿舍室内温度略低于所需供暖室内临界温度,CO2浓度远超过人体长期处在室内所能 接受的限制浓度.通过比较不同气密性房间热环境参数和CO2浓度,指出房间气密性对寒潮期间 室内CO2浓度影响较大,对室内热环境影响较小."
 
     # Skills:
     #   - name: Physics
