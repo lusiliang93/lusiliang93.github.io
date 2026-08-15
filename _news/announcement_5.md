@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2021-07-03
+date: 2022-06-13
 inline: true
 related_posts: false
 ---
 
-Invited talk about A case study of real-time chiller optimization in the manufacturing industry with data-driven load forecast in symposium on smart buildings and sustainable cities hosted by UNNC
+Congrats on achieving <a href="https://www.linkedin.com/posts/bosch-center-for-artificial-intelligence-bcai_bosch-ai-data-activity-6952609627423297536-7yh-?utm_source=share&utm_medium=member_desktop">Global Top Inventor of Robert Bosch</a>!
