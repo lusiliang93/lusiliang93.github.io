@@ -25,6 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Senior Expert at Bosch Corporate Research in Shanghai, where I lead industrial-AI projects across business units. My work focuses on control and optimization and time-series analysis for mobility, energy systems and supply chains. Before Bosch, I received my PhD in Building Performance and Diagnostics from Carnegie Mellon University in 2019. I enjoy translating research into scalable AI solutions for real-world applications.
+I am a Senior Expert at Bosch Corporate Research in Shanghai, where I lead industrial-AI projects across business units. My work focuses on control and optimization and time-series analysis for mobility, energy systems and supply chains. Meanwhile, I am also <a href="https://icreem.shanghai.nyu.edu/en/team/siliang-lu">an adjunct senior research fellow </a>in ICREEM of New York University Shanghai, where I have been conducting research on AI in property technologies. Before Bosch, I received my PhD in Building Performance and Diagnostics from Carnegie Mellon University in 2019. I enjoy translating research into scalable AI solutions for real-world applications.
 
 See my [publications](/publications/), [CV](/cv/), and [open-source projects](/repositories/) to learn more.
