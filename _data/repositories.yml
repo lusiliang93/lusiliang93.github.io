@@ -1,14 +1,15 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - lusiliang93
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - lusiliang93/personalized-cooling-fan
+  - lusiliang93/16623-facial-landmark
+  - lusiliang93/aic_personal_comfort
+  - lusiliang93/SODA
+  - lusiliang93/image-retrieval-v2
+  - lusiliang93/Image-Retrieval-liresolr
+  - lusiliang93/thermal_model_rp884
+  - lusiliang93/speech_recognition
+  - lusiliang93/darknet-cpp
