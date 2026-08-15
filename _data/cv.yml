@@ -52,20 +52,20 @@ cv:
         position: Senior Expert
         location: Shanghai, China
         start_date: 2019
-        end_date: 2023
+        end_date: present
         summary: Leading projects in industrial AI across domains with different business units.
-        highlights:
-          - Relativity
-          - Description 2.
+        # highlights:
+        #   - Relativity
+        #   - Description 2.
 
-      # - company: California Institute of Technology
-      #   position: Visiting Professor
-      #   location: Pasadena, California, US
-      #   start_date: 1933
-      #   end_date: 1933
-      #   highlights:
-      #     - Description 1.
-      #     - Description 2.
+      - company: ICREEM of New York University Shanghai
+        position: Adjunct Senior Research Fellow
+        location: Shanghai, China
+        start_date: 2024
+        end_date: present
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
 
       # - company: Kaiser Wilhelm Institute for Physics
       #   position: Director
