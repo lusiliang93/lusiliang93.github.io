@@ -338,7 +338,7 @@ cv:
         publisher: "Robert Bosch GmbH"
         releaseDate: "2023"
         url: "https://patents.google.com/patent/CN116391193A/en"
-        summary: "CN116391193A; priority date 2020-10-15."
+        summary: "Patent publication CN116391193A. Priority date: 2020-10-15."
 
       - title: "Methods and devices for visual reasoning"
         authors:
@@ -346,7 +346,7 @@ cv:
         publisher: "Robert Bosch GmbH"
         releaseDate: "2023"
         url: "https://patents.google.com/patent/CN117223033A/en"
-        summary: "CN117223033A; priority date 2021-03-03."
+        summary: "Patent publication CN117223033A. Priority date: 2021-03-03."
 
       - title: "高压燃油泵计量阀诊断方法及控制单元"
         authors:
@@ -354,7 +354,7 @@ cv:
         publisher: "Bosch Powertrain Co., Ltd."
         releaseDate: "2024"
         url: "https://patents.google.com/patent/CN118224009A/zh"
-        summary: "CN118224009A; priority date 2022-12-19."
+        summary: "Patent publication CN118224009A. Priority date: 2022-12-19."
 
       - title: "Method and apparatus for optimizing designs of product packaging units"
         authors:
@@ -362,7 +362,7 @@ cv:
         publisher: "Robert Bosch GmbH"
         releaseDate: "2025"
         url: "https://patents.google.com/patent/WO2025194407A1/en"
-        summary: "WO2025194407A1; priority date 2024-03-21."
+        summary: "Patent publication WO2025194407A1. Priority date: 2024-03-21."
 
       - title: "一种用于管理车辆运输的方法和装置"
         authors:
@@ -370,7 +370,7 @@ cv:
         publisher: "Robert Bosch GmbH"
         releaseDate: "2025"
         url: "https://patents.google.com/patent/WO2025175423A1/zh"
-        summary: "WO2025175423A1; priority date 2024-02-19."
+        summary: "Patent publication WO2025175423A1. Priority date: 2024-02-19."
 
       - title: "Method and apparatus for controlling refrigerating device"
         authors:
@@ -378,7 +378,7 @@ cv:
         publisher: "Robert Bosch GmbH"
         releaseDate: "2022"
         url: "https://patents.google.com/patent/WO2022246627A1/en"
-        summary: "WO2022246627A1; priority date 2021-05-25."
+        summary: "Patent publication WO2022246627A1. Priority date: 2021-05-25."
 
       - title: "High-pressure fuel pump metering valve recovery method and control unit"
         authors:
@@ -386,7 +386,7 @@ cv:
         publisher: "Robert Bosch GmbH"
         releaseDate: "2024"
         url: "https://patents.google.com/patent/CN118934376A/en"
-        summary: "CN118934376A; priority date 2023-05-11."
+        summary: "Patent publication CN118934376A. Priority date: 2023-05-11."
 
       - title: "Method and unit for dynamically adjusting the maintenance plan of an air compressor system"
         authors:
@@ -394,7 +394,7 @@ cv:
         publisher: "Robert Bosch GmbH"
         releaseDate: "2025"
         url: "https://patents.google.com/patent/CN120159758A/en"
-        summary: "CN120159758A; priority date 2023-12-14."
+        summary: "Patent publication CN120159758A. Priority date: 2023-12-14."
 
       - title: "Method, device and storage medium for controlling refrigeration system"
         authors:
@@ -402,7 +402,7 @@ cv:
         publisher: "Robert Bosch GmbH"
         releaseDate: "2025"
         url: "https://patents.google.com/patent/CN120333027A/en"
-        summary: "CN120333027A; priority date 2024-01-17."
+        summary: "Patent publication CN120333027A. Priority date: 2024-01-17."
 
       - title: "用于确定流体通路的形状参数的方法和装置"
         authors:
@@ -410,7 +410,7 @@ cv:
         publisher: "Robert Bosch GmbH"
         releaseDate: "2025"
         url: "https://patents.google.com/patent/CN120770025A/zh"
-        summary: "CN120770025A; priority date 2023-03-01."
+        summary: "Patent publication CN120770025A. Priority date: 2023-03-01."
 
       - title: "用于进行车辆选择和路径规划的方法和装置"
         authors:
@@ -418,7 +418,7 @@ cv:
         publisher: "Robert Bosch GmbH"
         releaseDate: "2025"
         url: "https://patents.google.com/patent/WO2025152063A1/zh"
-        summary: "WO2025152063A1; priority date 2024-01-17."
+        summary: "Patent publication WO2025152063A1. Priority date: 2024-01-17."
 
       - title: "确定用于测试工况条件的方法、装置、设备、系统和介质"
         authors:
@@ -426,7 +426,7 @@ cv:
         publisher: "Robert Bosch GmbH"
         releaseDate: "2023"
         url: "https://patents.google.com/patent/CN117233506A/zh"
-        summary: "CN117233506A; priority date 2023-09-18."
+        summary: "Patent publication CN117233506A. Priority date: 2023-09-18."
 
     # Skills:
     #   - name: Physics
