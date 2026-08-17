@@ -332,42 +332,101 @@ cv:
       #   summary: "健康舒适的学生宿舍环境是保证大学生日常学习生活的必要条件 .对上海非供暖宿舍寒潮期室内CO2浓度和热环境参数进行为期29天的实测.结果表明寒潮期上海 非供暖学生宿舍室内温度略低于所需供暖室内临界温度,CO2浓度远超过人体长期处在室内所能 接受的限制浓度.通过比较不同气密性房间热环境参数和CO2浓度,指出房间气密性对寒潮期间 室内CO2浓度影响较大,对室内热环境影响较小."
 
     Patents:
-      - title: "Method and apparatus for determining shape parameter of fluid pathway"
-        authors:
-          - "Siliang Lu"
-          - "Xu Xie"
-          - "Hanyang Zhang"
-        publisher: "Robert Bosch Company Limited"
-        releaseDate: "2023"
-        url: "https://k-knowledge.kr/srch/read.jsp?id=280599351"
-        summary: "Machine-learning-assisted optimization of fluid-pathway geometry using simulation data."
-
-      - title: "Method and apparatus for visual reasoning"
-        authors:
-          - "Bo Zhang"
-          - "Chongxuan Li"
-          - "Hang Su"
-          - "Jun Zhu"
-          - "Ke Su"
-          - "Siliang Lu"
-          - "Ze Cheng"
-        publisher: "Tsinghua University; Xuzhou Heavy Machinery Co., Ltd.; Robert Bosch GmbH"
-        releaseDate: "2024"
-        url: "https://patents.google.com/patent/US20240185023A1/en"
-        summary: "US20240185023A1; priority date 2021-03-03."
-
       - title: "Method and apparatus for neural network based on energy-based latent variable models"
         authors:
-          - "Jun Zhu"
-          - "Fan Bao"
-          - "Chongxuan Li"
-          - "Kun Xu"
-          - "Hang Su"
           - "Siliang Lu"
-        publisher: "Tsinghua University; Robert Bosch GmbH"
+        publisher: "Robert Bosch GmbH"
+        releaseDate: "2023"
+        url: "https://patents.google.com/patent/CN116391193A/en"
+        summary: "CN116391193A; priority date 2020-10-15."
+
+      - title: "Methods and devices for visual reasoning"
+        authors:
+          - "Siliang Lu"
+        publisher: "Robert Bosch GmbH"
+        releaseDate: "2023"
+        url: "https://patents.google.com/patent/CN117223033A/en"
+        summary: "CN117223033A; priority date 2021-03-03."
+
+      - title: "高压燃油泵计量阀诊断方法及控制单元"
+        authors:
+          - "Siliang Lu"
+        publisher: "Bosch Powertrain Co., Ltd."
+        releaseDate: "2024"
+        url: "https://patents.google.com/patent/CN118224009A/zh"
+        summary: "CN118224009A; priority date 2022-12-19."
+
+      - title: "Method and apparatus for optimizing designs of product packaging units"
+        authors:
+          - "Siliang Lu"
+        publisher: "Robert Bosch GmbH"
+        releaseDate: "2025"
+        url: "https://patents.google.com/patent/WO2025194407A1/en"
+        summary: "WO2025194407A1; priority date 2024-03-21."
+
+      - title: "一种用于管理车辆运输的方法和装置"
+        authors:
+          - "Siliang Lu"
+        publisher: "Robert Bosch GmbH"
+        releaseDate: "2025"
+        url: "https://patents.google.com/patent/WO2025175423A1/zh"
+        summary: "WO2025175423A1; priority date 2024-02-19."
+
+      - title: "Method and apparatus for controlling refrigerating device"
+        authors:
+          - "Siliang Lu"
+        publisher: "Robert Bosch GmbH"
         releaseDate: "2022"
-        url: "https://patents.google.com/patent/WO2022077345A1/en"
-        summary: "WO2022077345A1; priority date 2020-10-15."
+        url: "https://patents.google.com/patent/WO2022246627A1/en"
+        summary: "WO2022246627A1; priority date 2021-05-25."
+
+      - title: "High-pressure fuel pump metering valve recovery method and control unit"
+        authors:
+          - "Siliang Lu"
+        publisher: "Robert Bosch GmbH"
+        releaseDate: "2024"
+        url: "https://patents.google.com/patent/CN118934376A/en"
+        summary: "CN118934376A; priority date 2023-05-11."
+
+      - title: "Method and unit for dynamically adjusting the maintenance plan of an air compressor system"
+        authors:
+          - "Siliang Lu"
+        publisher: "Robert Bosch GmbH"
+        releaseDate: "2025"
+        url: "https://patents.google.com/patent/CN120159758A/en"
+        summary: "CN120159758A; priority date 2023-12-14."
+
+      - title: "Method, device and storage medium for controlling refrigeration system"
+        authors:
+          - "Siliang Lu"
+        publisher: "Robert Bosch GmbH"
+        releaseDate: "2025"
+        url: "https://patents.google.com/patent/CN120333027A/en"
+        summary: "CN120333027A; priority date 2024-01-17."
+
+      - title: "用于确定流体通路的形状参数的方法和装置"
+        authors:
+          - "Siliang Lu"
+        publisher: "Robert Bosch GmbH"
+        releaseDate: "2025"
+        url: "https://patents.google.com/patent/CN120770025A/zh"
+        summary: "CN120770025A; priority date 2023-03-01."
+
+      - title: "用于进行车辆选择和路径规划的方法和装置"
+        authors:
+          - "Siliang Lu"
+        publisher: "Robert Bosch GmbH"
+        releaseDate: "2025"
+        url: "https://patents.google.com/patent/WO2025152063A1/zh"
+        summary: "WO2025152063A1; priority date 2024-01-17."
+
+      - title: "确定用于测试工况条件的方法、装置、设备、系统和介质"
+        authors:
+          - "Siliang Lu"
+        publisher: "Robert Bosch GmbH"
+        releaseDate: "2023"
+        url: "https://patents.google.com/patent/CN117233506A/zh"
+        summary: "CN117233506A; priority date 2023-09-18."
 
     # Skills:
     #   - name: Physics
