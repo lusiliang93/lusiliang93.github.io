@@ -406,7 +406,6 @@ cv:
         url: "https://patents.google.com/patent/CN117233506A/zh"
         summary: "Patent publication CN117233506A. Priority date: 2023-09-18."
 
-    Patents:
       - title: "Method and apparatus for neural network based on energy-based latent variable models"
         authors:
           - "Siliang Lu"
